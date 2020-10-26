@@ -6,3 +6,8 @@ I've upload also the manager file, v6.7.2, I've programmed for a 48 hourly previ
 Thinking in an open air installation could be very handy
 
 Sign in to get an Api key and with your latitud and longitud configure the script.
+
+##### <br/> 
+##### Medialon Manager Panel screenshot:
+
+![Image of panel](screenshots/screenshot.png)
